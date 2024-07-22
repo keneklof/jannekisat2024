@@ -4,5 +4,6 @@
 {"name":"Sakari Pyörre [Räyskälän Ilmailukerho]","cn":"PF","glider":"LS-7","comp":"Janne","flarm":["D01990"]},
 {"name":"Rostyslav Redchuk [HYIK]","cn":"HY","glider":"LS-8a","comp":"Janne","flarm":["D0275A"]},
 {"name":"Heikki Parviainen [Turun Lentokerho]","cn":"JO","glider":"PIK-20","comp":"Janne","flarm":["D01331"]},
-{"name":"Timo Vierimaa [KILY]","cn":"KK","glider":"Ventus-2b","comp":"Janne","flarm":["DDEF87"]}
+{"name":"Timo Vierimaa [KILY]","cn":"KK","glider":"Ventus-2b","comp":"Janne","flarm":["DDEF87"]},
+{"name":"Timo Nikkanen [Polytekniikkojen Ilmailukerho]","cn":"OLE","glider":"PIK-20","comp":"Janne","flarm":["DDE351"]}
 ]
